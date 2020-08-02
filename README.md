@@ -1,5 +1,5 @@
 ### This's *Peter Shaker* Profile  👋
-![hello] (https://media-exp1.licdn.com/dms/image/C4D03AQF5aN6hl9p_xQ/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=TpjtCkj6ItTuGRdJGh5xlfqzxcKG1lcOxvtX01H-UHY)
+![hello](https://media-exp1.licdn.com/dms/image/C4D03AQF5aN6hl9p_xQ/profile-displayphoto-shrink_200_200/0?e=1602115200&v=beta&t=TpjtCkj6ItTuGRdJGh5xlfqzxcKG1lcOxvtX01H-UHY)
 <!--
 **EngPeterShaker/EngPeterShaker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
